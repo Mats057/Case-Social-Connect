@@ -38,7 +38,7 @@ o item “Início”.
 
 <br>
 
-<h3>SobreNosAntigo - Enzo Miletta</h3>
+<h3>Sobre-Nós-Antigo-Arrumado - Enzo Miletta</h3>
 
 Essa branch ficou responsável por os seguintes desafios:
 
@@ -50,7 +50,7 @@ algum commit anterior na Branch main. Localize o texto para corrigi-lo.
 
 <br>
 
-<h3>TextoSobreEquipe - Lucas Son</h3>
+<h3>TextoSobreEquipeArrumado - Lucas Son</h3>
 
 Essa branch ficou responsável por os seguintes desafios:
 
@@ -61,8 +61,9 @@ capacitada e destacando as qualidades dos colaboradores da empresa
 <h2>Integrantes</h2>
 
 <h3><a href="https://github.com/Enzo-Miletta" target="_blank">Enzo Miletta</a><br>
-<a href="" target="_blank">Lucas Son</a><br>
+<a href="https://github.com/Lucas-Son" target="_blank">Lucas Son</a><br>
 <a href="https://github.com/MaahTorro" target="_blank">Marcela Torro</a><br>
 <a href="https://github.com/Matheus-V-Alves" target="_blank">Matheus V. Alves</a><br>
 <a href="https://github.com/Mats057" target="_blank">Matheus Q. Zanutin</a><br>
+<a href="https://github.com/werbethnunes" target="_blank">Werbeth Nunes</a><br>
 
