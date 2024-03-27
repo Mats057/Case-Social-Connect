@@ -9,8 +9,13 @@ SocialConnect é um desafio de Github/HTML proposto na matéria de Web Developme
 
 Essa branch ficou responsável por os seguintes desafios:
 
-<b>Rodapé desatualizado e com erros:</b> O rodapé está com o ano incorreto além de ter 
-algumas letras faltando.
+<b>Adicionar uma seção de contato: abaixo da equipe deve conter uma seção de contato, 
+contendo:
+- Título
+- Telefone
+- E-mail
+- Horário de atendimento
+
 
 <b>Adicionar redes sociais ao rodapé:</b> adicionar o perfil do linkedin e instagram ao rodapé.
 
