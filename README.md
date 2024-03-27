@@ -16,7 +16,7 @@ algumas letras faltando.
 
 <br>
 
-<h3>ImagensCores - Marcela Torro</h3>
+<h3>CoresEImagens - Marcela Torro</h3>
 
 Essa branch ficou responsável por os seguintes desafios:
 
